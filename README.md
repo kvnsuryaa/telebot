@@ -10,17 +10,21 @@
 
     python3 -m venv env
 
-3. Install requests.
+3. Go to your Virtual Environment.
+
+    source env/bin/active
+
+4. Install requests.
 
     pip install requests
 
-4. Set Bot Token at main.py
+5. Set Bot Token at main.py
 
     token = '< BOT_TOKEN >'
 
-5. Run program
+6. Run program
 
     - start bot at Telegram
-    - python main
+    - python main.py
 
 ### Have fun :))
